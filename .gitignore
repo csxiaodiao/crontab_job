@@ -1,0 +1,4 @@
+.versions.conf
+
+log/*.log
+!log/.keep
